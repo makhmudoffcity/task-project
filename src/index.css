@@ -1,0 +1,40 @@
+.wrapper{
+    width: 500px;
+    display: flex;
+    height: 60px;
+    align-items: center;
+    justify-content: space-between;
+}
+.descrip{
+    display: flex;
+    flex-direction: column;
+    height: 50px;
+    width: 150px;
+    padding-top: 10px;
+    position: relative;
+    justify-content: space-between;
+    
+}
+.par{
+    position: absolute;
+    margin-top: 20px;
+
+}
+.par2{
+    position: absolute;
+    margin-top: 0px;
+}
+.quan{
+    display: flex;
+    align-items: center;
+}
+.button{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    background-color: green;
+}
+.green{
+    color: green;
+}
