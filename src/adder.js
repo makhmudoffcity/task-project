@@ -31,6 +31,7 @@ class Selecter extends React.Component{
         </div>
         <div className="total"><h3 className="green">{"$"+this.state.price*this.state.quantity}</h3></div>
         <div className="delete" ><img src={img2}></img></div>
+        <h1>this web belongs to Asadbek</h1>
         </div>
         )
     }
